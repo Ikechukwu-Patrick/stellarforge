@@ -37,7 +37,7 @@ stellarforge/
 ## 📦 Installation
 
 ```bash
-go get github.com/Ikechukwu-Patrick/stellarforge
+go get https://github.com/stellerforge-for-dev/stellarforge
 ```
 
 ## 🧪 Running Tests
